@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ARM assembler on caos theory</title>
-    <link>https://daniladanila.github.io/2024-caos-examples/docs/theory/arm/</link>
+    <link>http://localhost:1313/2024-caos-examples/docs/theory/arm/</link>
     <description>Recent content in ARM assembler on caos theory</description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
-    <atom:link href="https://daniladanila.github.io/2024-caos-examples/docs/theory/arm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/2024-caos-examples/docs/theory/arm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linaro (а как тестить)</title>
-      <link>https://daniladanila.github.io/2024-caos-examples/docs/theory/arm/linaro/</link>
+      <link>http://localhost:1313/2024-caos-examples/docs/theory/arm/linaro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://daniladanila.github.io/2024-caos-examples/docs/theory/arm/linaro/</guid>
+      <guid>http://localhost:1313/2024-caos-examples/docs/theory/arm/linaro/</guid>
       <description>&lt;h1 id=&#34;linaro-а-как-мне-это-запустить-то&#34;&gt;&#xA;  Linaro (а как мне это запустить то???)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#linaro-%d0%b0-%d0%ba%d0%b0%d0%ba-%d0%bc%d0%bd%d0%b5-%d1%8d%d1%82%d0%be-%d0%b7%d0%b0%d0%bf%d1%83%d1%81%d1%82%d0%b8%d1%82%d1%8c-%d1%82%d0%be&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Если у вас есть MacBook на &lt;code&gt;ARM&lt;/code&gt; или Raspberry Pi / другой китайский одноплатник, то можете писать на нём.&lt;/p&gt;&#xA;&lt;p&gt;Эта страничка необходима только людям с компами на intel.&lt;/p&gt;&#xA;&lt;h2 id=&#34;cross-compilation&#34;&gt;&#xA;  Cross compilation&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#cross-compilation&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;У нас компы на intel (&lt;code&gt;x86_64&lt;/code&gt;), а код написан под &lt;code&gt;ARM&lt;/code&gt;.&#xA;Чтоб собирать под &lt;em&gt;другую&lt;/em&gt; (относительно нашей системы) архитектуру, нужен другой компилятор.&lt;/p&gt;&#xA;&lt;h3 id=&#34;стандартные-пакеты&#34;&gt;&#xA;  стандартные пакеты&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d1%81%d1%82%d0%b0%d0%bd%d0%b4%d0%b0%d1%80%d1%82%d0%bd%d1%8b%d0%b5-%d0%bf%d0%b0%d0%ba%d0%b5%d1%82%d1%8b&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;I use Arch btw&lt;/em&gt; так что за Ubuntu не очень шарю, но кажется можно просто поставить&lt;/p&gt;</description>
     </item>
   </channel>

@@ -17,12 +17,12 @@ type: docs
 
 ## Manytask с задачками
 
-`TODO: вставить ссылку, когда появится`
+- [Manytask](https://manytask.carzil.ru/)
 
 
 ## Табличка с баллами
 
-`TODO: ну видимо завести табличку`
+- [Табличка](https://docs.google.com/spreadsheets/d/1ynF6GIW1I2x8heONNzOI8XZHmFDhjqBEQcKUZp16U4c/edit?gid=0#gid=0)
 
 
 ## Просто ссылка на github
@@ -32,10 +32,11 @@ type: docs
 
 ## Ссылочки на презенташки
 
-- [1_devtools](https://daniladanila.github.io/2024-caos-examples/1_devtools/devtools.slides.html#/)
-- [2_numbers](https://daniladanila.github.io/2024-caos-examples/2_numbers/datatypes.slides.html#/)
-- [3_files](https://daniladanila.github.io/2024-caos-examples/3_files/files.slides.html#/)
-- [4_x86](https://daniladanila.github.io/2024-caos-examples/4_x86/x86.slides.html#/)
+- [1_devtools](sems/devtools/devtools.slides.html)
+- [2_numbers](sems/numbers/datatypes.slides.html)
+- [3_files](sems/files/files.slides.html)
+- [4_x86](sems/x86_64/x86.slides.html)
+- [5_arm](sems/arm/arm.slides.html)
 
 
 ## Ссылочки на записи

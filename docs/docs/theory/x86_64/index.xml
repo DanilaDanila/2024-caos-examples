@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>x86_64 assembler on caos theory</title>
-    <link>https://daniladanila.github.io/2024-caos-examples/docs/theory/x86_64/</link>
+    <link>http://localhost:1313/2024-caos-examples/docs/theory/x86_64/</link>
     <description>Recent content in x86_64 assembler on caos theory</description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
-    <atom:link href="https://daniladanila.github.io/2024-caos-examples/docs/theory/x86_64/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/2024-caos-examples/docs/theory/x86_64/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>floats</title>
-      <link>https://daniladanila.github.io/2024-caos-examples/docs/theory/x86_64/floats/</link>
+      <link>http://localhost:1313/2024-caos-examples/docs/theory/x86_64/floats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://daniladanila.github.io/2024-caos-examples/docs/theory/x86_64/floats/</guid>
+      <guid>http://localhost:1313/2024-caos-examples/docs/theory/x86_64/floats/</guid>
       <description>&lt;h1 id=&#34;floats&#34;&gt;&#xA;  Floats&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#floats&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;В курсе не рассматриваются команды для старого &lt;code&gt;FPU&lt;/code&gt; (который &lt;code&gt;fmov&lt;/code&gt;, &lt;code&gt;fadd&lt;/code&gt; &amp;hellip;), поэтому мы его тоже скипнем.&lt;/p&gt;&#xA;&lt;p&gt;Раньше особого смысла в обработке дробных чисел на офисных машинках не было.&#xA;(тем более что деньги так считать нельзя).&lt;/p&gt;&#xA;&lt;p&gt;Поэтому &lt;code&gt;FPU&lt;/code&gt; (Floating point Processing Unit) стал поставлятся не сразу, а в начале вообще был&#xA;отдельным &amp;ldquo;камнем&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Сейчас это просто один из модулей центрального процессора.&lt;/p&gt;&#xA;&lt;h2 id=&#34;sse-streaming-simd-extensions&#34;&gt;&#xA;  SSE (Streaming SIMD Extensions)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#sse-streaming-simd-extensions&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;В x86_64 есть большие регистры, через которые можно работать с числами с плавающей точкой.&lt;/p&gt;</description>
     </item>
   </channel>
